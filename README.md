@@ -5,11 +5,11 @@ A secure web application to modernize voting with two modules: Admin: Manage can
 
 Operating System : Any version of Windows NT family (4.0 &above)
  
-## Frontend :\
-jsp   css3   javascript   bootstrap.md
+## Frontend :
+### jsp   css3   javascript   bootstrap
 
 ## Backend :
-Java.md
+### Java
 
-### Database :
-mysql.md
+## Database :
+### mysql
